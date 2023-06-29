@@ -1,0 +1,8 @@
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\bin\Debug\netcoreapp2.1\StoreWebApp.Core.deps.json
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\bin\Debug\netcoreapp2.1\StoreWebApp.Core.dll
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\bin\Debug\netcoreapp2.1\StoreWebApp.Core.pdb
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\obj\Debug\netcoreapp2.1\StoreWebApp.Core.csproj.CoreCompileInputs.cache
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\obj\Debug\netcoreapp2.1\StoreWebApp.Core.AssemblyInfoInputs.cache
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\obj\Debug\netcoreapp2.1\StoreWebApp.Core.AssemblyInfo.cs
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\obj\Debug\netcoreapp2.1\StoreWebApp.Core.dll
+D:\project\Learn\StoreWebApp\StoreWebApp.Core\obj\Debug\netcoreapp2.1\StoreWebApp.Core.pdb

@@ -1,0 +1,14 @@
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.EF.deps.json
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.EF.runtimeconfig.json
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.EF.runtimeconfig.dev.json
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.EF.dll
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.EF.pdb
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.Core.dll
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\bin\Debug\netcoreapp2.1\StoreWebApp.Core.pdb
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.csprojAssemblyReference.cache
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.csproj.CoreCompileInputs.cache
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.AssemblyInfoInputs.cache
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.AssemblyInfo.cs
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.csproj.CopyComplete
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.dll
+D:\project\Learn\StoreWebApp\StoreWebApp.EF\obj\Debug\netcoreapp2.1\StoreWebApp.EF.pdb
